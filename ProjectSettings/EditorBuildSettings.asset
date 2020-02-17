@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Preload.unity
+    guid: 6bb2831e41077734889bd25651e9a049
+  - enabled: 1
+    path: Assets/Scenes/01_Menu.unity
+    guid: 9f1d7532f81a7cf4c87945601381bcc8
+  - enabled: 1
+    path: Assets/Scenes/Pause_Menu.unity
+    guid: eae7980c2a340714a83226ef2eb71343
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Lose_Screen.unity
+    guid: 03da1331cc2d78d47aabb7da72ec80a0
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: d71988c34b07a1948ac8f5a362c93c56
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 49fa98e7623b58d45a270de592665531
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: 0443d1ad745d54f488308fa27fcc7617
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: 7e9f997ca0613a740b903094f26aecbf
+  - enabled: 1
+    path: Assets/Scenes/Good_Ending.unity
+    guid: 8809dd1e2c9660346ad6920d7a773f18
+  - enabled: 1
+    path: Assets/Scenes/Choice.unity
+    guid: 7d013b0fcc577e445ba4f6f05784bf7f
+  - enabled: 1
+    path: Assets/Scenes/Bad_Ending.unity
+    guid: 6f209081109e0244d8817798149d1714
+  - enabled: 1
+    path: Assets/Scenes/Bad_Ending_Pack.unity
+    guid: e22ec707673374f488962f0be21bf247
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 0f177176cd63aac4a8cdf30a00101575
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: 582f4393a053be2439c6a2da25fd7555
+  m_configObjects: {}
